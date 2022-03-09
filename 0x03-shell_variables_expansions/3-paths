@@ -1,0 +1,3 @@
+[A[B#!/bin/bash
+echo$(('echo $PATH ||| |grep -0":/"| wc
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwc -l'+1))
